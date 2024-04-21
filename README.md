@@ -32,4 +32,4 @@ O Aplicativo de Jogo de Pedra, Papel e Tesoura em Flutter é uma implementação
 - `badge.dart` e `placar.dart`: Classes que representam componentes reutilizáveis para exibir as escolhas dos jogadores e o placar.
 
 ## Licença
-Este projeto é licenciado sob a [MIT License](https://github.com/brunaschneider/Pedrapapeltesoura/blob/main/LICENSE).
+Este projeto é licenciado sob a [MIT License](https://github.com/brunaschneider/Pedrapapeltesoura/).
